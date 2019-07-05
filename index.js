@@ -12,6 +12,7 @@ class App extends React.Component {
         let treeData = []
         console.log(judgeBrowser())
     }
+    
     render() {
         return [
             <div key="1">查看console了解输出结果</div>,
