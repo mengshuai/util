@@ -12,6 +12,7 @@ class App extends React.Component {
         let treeData = []
         console.log(judgeBrowser())
     }
+
     
     render() {
         return [
